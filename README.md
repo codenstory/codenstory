@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on home!
+- 🌱 I’m currently learning HTML and back-end programming languages.
 
 <!--
 **codenstory/codenstory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
