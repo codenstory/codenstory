@@ -1,5 +1,4 @@
 ### Hi there 👋
-- *****I sign every commit with GnuPG!*****
 - 🔭 I’m currently working on home!
 - 🌱 I’m currently learning HTML and back-end programming languages.
 
