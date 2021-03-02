@@ -1,3 +1,3 @@
-preparing gitea server
+Preparing Gitea server
 
-more info at https://github.com/cismonx
+More info at https://github.com/CismonX
